@@ -43,8 +43,9 @@ Monitor file integrity by calculating and comparing cryptographic hash values.
 SHA-256 hashing, file integrity verification
 
 ### Run Command: ###
-
+```bash
 python file_integrity_checker.py
+```
 
 ### Task 2: Web Application Vulnerability Scanner ###
 
@@ -55,9 +56,9 @@ Identify common web vulnerabilities such as SQL Injection and XSS.
 Input validation, vulnerability detection, HTTP requests
 
 ### Run Command: ###
-
+```bash
 python web_vuln_scanner.py
-
+```
 
 ⚠️ Use only on authorized or test websites.
 
@@ -76,8 +77,9 @@ Brute Force Simulator
 Networking, sockets, ethical hacking basics
 
 ### Run Command: ###
-
+```bash
 python main.py
+```
 
 ## Task 4: Advanced Encryption Tool ##
 
@@ -88,14 +90,16 @@ Encrypt and decrypt files using strong encryption standards.
 AES-256 encryption, secure file handling
 
 ### Run Command: ###
-
+```bash
 python aes_file_encryptor.py
+```
 
 ## Dependencies ##
 
 Install required libraries using:
-
+```bash
 pip install requests beautifulsoup4 cryptography
+```
 
 ## Ethical Disclaimer ##
 
