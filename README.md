@@ -1,4 +1,4 @@
-### CODTECH Cyber Security Internship – Task Submission ###
+# CODTECH Cyber Security Internship – Task Submission #
 
 This repository contains the completed tasks for the CODTECH Cyber Security Internship.
 All four mandatory tasks have been successfully implemented using Python, as per the official guidelines.
@@ -14,7 +14,7 @@ Organization: CODTECH
 Internship Duration: 3 Months (Starting date: 13th Dec)
 
 ## Repository Structure ##
-codtech-cybersecurity-internship/
+# codtech-cybersecurity-internship/ #
 │
 ├── task1_file_integrity_checker/
 │   └── file_integrity_checker.py
@@ -32,60 +32,60 @@ codtech-cybersecurity-internship/
 │
 └── README.md
 
-# Task 1: File Integrity Checker #
+### Task 1: File Integrity Checker ###
 
-Objective:
+# Objective: #
 Monitor file integrity by calculating and comparing cryptographic hash values.
 
-Key Concepts:
+# Key Concepts: #
 SHA-256 hashing, file integrity verification
 
-Run Command:
+# Run Command: #
 
 python file_integrity_checker.py
 
-# Task 2: Web Application Vulnerability Scanner #
+### Task 2: Web Application Vulnerability Scanner ###
 
-Objective:
+# Objective: #
 Identify common web vulnerabilities such as SQL Injection and XSS.
 
-Key Concepts:
+# Key Concepts: #
 Input validation, vulnerability detection, HTTP requests
 
-Run Command:
+# Run Command: #
 
 python web_vuln_scanner.py
 
 
 ⚠️ Use only on authorized or test websites.
 
-# Task 3: Penetration Testing Toolkit #
+### Task 3: Penetration Testing Toolkit ###
 
-Objective:
+# Objective: #
 Create a modular penetration testing toolkit.
 
-Modules Included:
+# Modules Included: #
 
 Port Scanner
 
 Brute Force Simulator
 
-Key Concepts:
+# Key Concepts: #
 Networking, sockets, ethical hacking basics
 
-Run Command:
+# Run Command: #
 
 python main.py
 
-# Task 4: Advanced Encryption Tool #
+### Task 4: Advanced Encryption Tool ###
 
-Objective:
+# Objective: #
 Encrypt and decrypt files using strong encryption standards.
 
-Key Concepts:
+# Key Concepts: #
 AES-256 encryption, secure file handling
 
-Run Command:
+# Run Command: #
 
 python aes_file_encryptor.py
 
@@ -104,7 +104,7 @@ Any unauthorized or malicious use of these tools is illegal and discouraged.
 
 I confirm that this work is my own and has been completed as part of the CODTECH Cyber Security Internship, using permitted learning resources.
 
-### Submission Status ###
+# Submission Status #
 
 ✔ All 4 tasks completed
 
