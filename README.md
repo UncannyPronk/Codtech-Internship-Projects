@@ -1,4 +1,5 @@
-# CODTECH Cyber Security Internship – Task Submission #
+# CODTECH Cyber Security Internship #
+## Task Submission ##
 
 This repository contains the completed tasks for the CODTECH Cyber Security Internship.
 All four mandatory tasks have been successfully implemented using Python, as per the official guidelines.
