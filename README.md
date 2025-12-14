@@ -14,7 +14,7 @@ Organization: CODTECH
 Internship Duration: 3 Months (Starting date: 13th Dec)
 
 ## Repository Structure ##
-
+```text
 codtech-cybersecurity-internship/
 │
 ├── task1_file_integrity_checker/
@@ -32,6 +32,7 @@ codtech-cybersecurity-internship/
 │   └── aes_file_encryptor.py
 │
 └── README.md
+```
 
 ## Task 1: File Integrity Checker ##
 
