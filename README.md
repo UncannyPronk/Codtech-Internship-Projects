@@ -1,5 +1,5 @@
-# CODTECH Cyber Security Internship #
-# [Task Submission] #
+# CODTECH Cyber Security Internship – Task Submission #
+
 --------------------
 This repository contains the completed tasks for the CODTECH Cyber Security Internship.
 All four mandatory tasks have been successfully implemented using Python, as per the official guidelines.
@@ -48,10 +48,11 @@ SHA-256 hashing, file integrity verification
 python file_integrity_checker.py
 ```
 
-### Task 2: Web Application Vulnerability Scanner ###
+## Task 2: Web Application Vulnerability Scanner ##
 
 ### Objective: ###
 Identify common web vulnerabilities such as SQL Injection and XSS.
+This scanner detects reflected and error-based vulnerabilities and demonstrates realistic limitations when scanning modern web applications.
 
 ### Key Concepts: ###
 Input validation, vulnerability detection, HTTP requests
@@ -88,7 +89,7 @@ python main.py
 Encrypt and decrypt files using strong encryption standards.
 
 ### Key Concepts: ###
-AES-256 encryption, secure file handling
+AES-256 encryption, symmetric cryptography, secure file handling
 
 ### Run Command: ###
 ```bash
